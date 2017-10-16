@@ -1,0 +1,7 @@
+/source/source/node_modules
+*.pyc
+/source/api/*.pyc
+/source/api/migrations
+/source/source/static/dist
+/source/source/static/upload/blog
+/source/source/static/upload/profile
